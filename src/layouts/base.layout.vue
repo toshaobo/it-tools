@@ -39,7 +39,7 @@ const tools = computed<ToolCategory[]>(() => [
         <HeroGradient class="gradient" />
         <div class="text-wrapper">
           <div class="title">
-            IT - TOOLS
+            Sos0 - TOOLS
           </div>
           <div class="divider" />
           <div class="subtitle">
@@ -61,7 +61,7 @@ const tools = computed<ToolCategory[]>(() => [
 
         <div class="footer">
           <div>
-            IT-Tools
+            Sos0-Tools
 
             <c-link target="_blank" rel="noopener" :href="`https://github.com/CorentinTh/it-tools/tree/v${version}`">
               v{{ version }}
@@ -123,7 +123,7 @@ const tools = computed<ToolCategory[]>(() => [
         <c-tooltip position="bottom" :tooltip="$t('home.support')">
           <c-button
             round
-            href="https://www.buymeacoffee.com/cthmsst"
+            href="https://www.sos0.com/#"
             rel="noopener"
             target="_blank"
             class="support-button"
