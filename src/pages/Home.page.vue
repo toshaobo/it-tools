@@ -10,7 +10,7 @@ import { config } from '@/config';
 
 const toolStore = useToolStore();
 
-useHead({ title: 'Sos0 Tools - Handy online tools for developers' });
+useHead({ title: 'SOS Zero Tools - All-in-one web tools for developers & techies' });
 const { t } = useI18n();
 
 const favoriteTools = computed(() => toolStore.favoriteTools);
