@@ -2,7 +2,7 @@
 
 An advanced, ultra-fast, and secure collection of handy online web tools designed to supercharge daily technical workflows for developers, IT professionals, and digital nomads with zero delay.
 
-👉 **Official Website:** [https://sos0.com](https://sos0.com)
+👉 **Official Website:** [https://tool.sos0.com](https://tool.sos0.com)
 
 ---
 
@@ -20,8 +20,8 @@ An advanced, ultra-fast, and secure collection of handy online web tools designe
 For business inquiries, advertising placement, custom tool development, or technical support, please contact us via our primary portal:
 E-mail:admin@sos0.com
 
-🔗 **Home Portal:** [https://sos0.com](https://sos0.com)
+🔗 **Home Portal:** [https://tool.sos0.com](https://tool.sos0.com)
 
 ---
 
-© 2026 [SOS Zero](https://sos0.com).
+© 2026 [SOS Zero](https://tool.sos0.com).
